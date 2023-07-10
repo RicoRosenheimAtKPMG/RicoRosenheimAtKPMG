@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @RicoRosenheimAtKPMG
+- 👀 I’m interested in Windows desktop management...
+- 🌱 I’m currently learning Zero Trust ...
+- 📫 How to reach me ...
+
+<!---
+RicoRosenheimAtKPMG/RicoRosenheimAtKPMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
